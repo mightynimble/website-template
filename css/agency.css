@@ -45,6 +45,10 @@ a.active {
     color: #fec503;
 }
 
+#news a {
+    color: #333;
+}
+
 h1,
 h2,
 h3,
@@ -335,7 +339,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    margin-bottom: 75px;
+    margin-bottom: 30px;
     text-transform: none;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
